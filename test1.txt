@@ -9,4 +9,5 @@ Please keep your username and password close at hand. You'll use it several time
 It is the best if you use any valid good valid email address for your GitHub.com 
 signup at which you can receive email during class. Demonstrations of code comments 
 and Pull Requests work best when you can see them functioning end to end, including email-based notifications
-ABCD.
+ABCD
+NEW LINE FOR MERGE CONFLICT2.
