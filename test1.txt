@@ -12,3 +12,4 @@ and Pull Requests work best when you can see them functioning end to end, includ
 ABCD
 NEW LINE FOR MERGE.
 NEW LINE FOR MERGE CONFLICT2.
+Add new line at te end directly in the hit hub.
