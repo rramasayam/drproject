@@ -1,3 +1,4 @@
+NEW FEATURE CHANGE
 We'd like you to establish a GitHub account to facilitate hands-on practice 
 of the network flow components of Git during class. A free account can be 
 established at the GitHub Signup Page. We also recommend that you take a 
