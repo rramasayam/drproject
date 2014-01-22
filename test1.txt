@@ -11,4 +11,4 @@ signup at which you can receive email during class. Demonstrations of code comme
 and Pull Requests work best when you can see them functioning end to end, including email-based notifications
 ABCD
 NEW LINE FOR MERGE.
-.
+NEW LINE FOR MERGE CONFLICT2.
