@@ -5,6 +5,6 @@ look at our supported browsers after you signup to ensure the best experience.
 
 Please keep your username and password close at hand. You'll use it several times during class.
 
-It is the best if you use any good valid email address for your GitHub.com 
+It is the best if you use any valid good valid email address for your GitHub.com 
 signup at which you can receive email during class. Demonstrations of code comments 
 and Pull Requests work best when you can see them functioning end to end, including email-based notifications.
