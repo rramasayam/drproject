@@ -1,0 +1,10 @@
+We'd like you to establish a GitHub account to facilitate hands-on practice 
+of the network flow components of Git during class. A free account can be 
+established at the GitHub Signup Page. We also recommend that you take a 
+look at our supported browsers after you signup to ensure the best experience.
+
+Please keep your username and password close at hand. You'll use it several times during class.
+
+It is best if you use a valid email address for your GitHub.com 
+signup at which you can receive email during class. Demonstrations of code comments 
+and Pull Requests work best when you can see them functioning end to end, including email-based notifications.
